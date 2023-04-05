@@ -6,4 +6,4 @@ Veroilmoituksen teko ei tarvitse olla hankalaa. Kryptoverotuksen avulla voit tä
 
 Kryptoverotus on **helppokäyttöinen, nopea ja reilusti hinnoiteltu**.
 
-Aloita verojen ilmoittaminen [täältä](https://kryptoverotus.fi)
+[Aloita verojen ilmoittaminen](https://kryptoverotus.fi).
